@@ -7,7 +7,7 @@ Potential Future Improvements:
 A UI to adgust threshold values, number of nodes, and size. 
 
 Use: 
-This project 
+This project was used to create art for a Graphic Design class I took, along with background art for various other projects, including the banner for my portfolio. 
 
 Resources:
 https://homepages.inf.ed.ac.uk/rbf/HIPR2/linedet.htm
